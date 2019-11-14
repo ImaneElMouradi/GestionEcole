@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://amine:itwins@cluster0-1by8h.mongodb.net/school?retryWrites=true&w=majority",
+  "jwtSecret": "GJH5gh24j"
+}
